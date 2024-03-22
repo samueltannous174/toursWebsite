@@ -1,0 +1,50 @@
+
+.postcard{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    padding: 100px;
+    margin-left: 21rem;
+    align-items: center;
+    text-align: center;
+}
+.nameAndsalary{
+    background-color: #f1f5f3;
+    display: flex;
+    width: 100%;
+
+}
+.name {
+    margin-left: 1rem;
+    margin-top: 5px;
+}
+.price {
+    margin-left: 10rem;
+    margin-top: 5px;
+    color: midnightblue;
+    background-color: #d2c151;
+}
+.paragraph{
+    background-color: #f1f5f3;
+}
+.btn {
+    border-style: hidden;
+    background: white;
+    color: red;
+
+}
+.btn2{
+    color: darkred;
+    size: 10rem;
+    border-color: darkred;
+    border-style: wave;
+
+}
+.img{
+    width: 100%;
+}
+.btn2c{
+    width: 100%;
+    background-color: #f1f5f3;
+    padding-bottom: 2rem;
+}

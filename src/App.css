@@ -1,0 +1,16 @@
+body{
+background: #481388;
+  text-align: center;
+}
+.container{
+  margin: auto;
+}
+.vertical {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: auto;
+}
+.h11{
+  color: #0b859a;
+}
